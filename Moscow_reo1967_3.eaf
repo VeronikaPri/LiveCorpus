@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-12-07T18:47:55+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-12-08T15:39:27+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Андрей/Desktop/KILI/Moscow_reo1967_3.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Moscow_reo1967_3.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5622c297-d805-4a3c-a921-b4510a6ef09c</PROPERTY>
@@ -199,7 +199,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>[какой чепреп?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>какой чепреп</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -241,7 +241,7 @@
     <TIER ANNOTATOR="pva@" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="pna@" TIER_ID="pna@speech">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>на деревьях?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на деревьях</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -266,7 +266,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>эээ, у тебя есть на севере?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>эээ, у тебя есть на севере</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -276,17 +276,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE> ближе к западу?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> ближе к западу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE>там, где медпункт?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>там, где медпункт</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>там, где вулкан?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>там, где вулкан</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -296,7 +296,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-                <ANNOTATION_VALUE>череп?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>череп</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -321,22 +321,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
-                <ANNOTATION_VALUE>у тебя есть на востоке?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у тебя есть на востоке</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
-                <ANNOTATION_VALUE>на станции?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на станции</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>амм, на фонтане?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>амм, на фонтане</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-                <ANNOTATION_VALUE>на пустом месте?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на пустом месте</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -577,7 +577,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>question, emotional</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>question</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -619,7 +619,7 @@
     <TIER ANNOTATOR="pva@" LINGUISTIC_TYPE_REF="utterance-acc" PARENT_REF="pna@speech" PARTICIPANT="pna@" TIER_ID="pna@acc">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a30">
-                <ANNOTATION_VALUE>на [дере'вьях]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на [дере'вьях]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -644,7 +644,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a35">
-                <ANNOTATION_VALUE>эээ, у тебя' [е'сть на се'вере]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>эээ, у тебя' [е'сть на се'вере]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -654,17 +654,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a37">
-                <ANNOTATION_VALUE> бли'же к [за'паду]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> бли'же к [за'паду]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a38">
-                <ANNOTATION_VALUE>та'м, где [медпу'нкт]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>та'м, где [медпу'нкт]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>та'м, где [вулка'н]?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>та'м, где [вулка'н]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
